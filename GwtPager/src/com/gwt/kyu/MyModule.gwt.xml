@@ -3,6 +3,6 @@
 <module rename-to="module">
 	<inherits name="com.google.gwt.user.User" />
 	<source path="client" />
-	<source path="shrade" />
+	<source path="shared" />
 	<entry-point class="com.gwt.kyu.client.MyEntry"></entry-point>
 </module>
